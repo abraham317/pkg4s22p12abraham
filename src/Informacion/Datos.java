@@ -7,7 +7,7 @@ package Informacion;
 
 /**
  *
- * @author Daliux
+ * 
  */
 public class Datos {
     String nombre;

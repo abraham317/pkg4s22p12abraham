@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package pkg4s22p12vba;
+package pkg4s22p12abraham;
 
 /**
  *
- * @author Daliux
+ * 
  */
 public class Main {
 

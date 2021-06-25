@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package pkg4s22p12vba;
+package pkg4s22p12abraham;
 
 import Almacen.Archivo;
 import Informacion.Datos;
@@ -19,7 +19,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Daliux
+ * 
  */
 public class FrmPrincipal extends javax.swing.JFrame {
 
